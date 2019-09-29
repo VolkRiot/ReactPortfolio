@@ -1,0 +1,19 @@
+{
+  "name": "reactportfolio",
+  "version": "1.0.0",
+  "description": "React portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VolkRiot/ReactPortfolio.git"
+  },
+  "author": "Mikhail Metrikin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VolkRiot/ReactPortfolio/issues"
+  },
+  "homepage": "https://github.com/VolkRiot/ReactPortfolio#readme"
+}
