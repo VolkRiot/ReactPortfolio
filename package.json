@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/VolkRiot/ReactPortfolio/issues"
   },
-  "homepage": "https://github.com/VolkRiot/ReactPortfolio#readme"
+  "homepage": "https://github.com/VolkRiot/ReactPortfolio#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
 }
