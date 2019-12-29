@@ -1,3 +1,9 @@
-const test = 'Es6'
+import Koa from 'koa'
 
-console.log(`Integrating ${test}`)
+const app = new Koa()
+
+app.use(async (ctx) => {
+  ctx.body = 'Koa server started'
+})
+
+app.listen(8080)
